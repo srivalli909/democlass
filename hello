@@ -1,3 +1,9 @@
 adding first line
+<<<<<<< HEAD
 added this line by valli
 new message added by valli
+=======
+added this line by ramesH
+new message added by gk
+one more line added by valli to check
+>>>>>>> a39c42faea57143a6ea86c0348a9e7a610f7b013
